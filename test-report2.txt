@@ -1,0 +1,10 @@
+
+SignUpTest - testiranje logovanja korisnika - true
+LoginTest - testiranje registracije korisnika - true
+CheckValidationTest - testiranje korisnickih podataka nakon prijave - true
+AddProductsTest - testiranje dodavanja 3 proizvoda u korpu - true
+EqualsValueTest - testiranje provere ukupne cene proizvoda - true
+PerformanceTest - testiranje performansi web prodavnice - true
+FilterProductTest - testiranje dobijanje liste proizvoda na osnovu filtera - true
+SearchProductTest - testiranje pretrage proizvoda - true
+SortProductTest - testiranje pretrage proizvoda - true

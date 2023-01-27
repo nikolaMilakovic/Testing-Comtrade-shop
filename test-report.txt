@@ -1,0 +1,84 @@
+Testiranje metode SignUpTest
+
+	Naziv testa: SignUpTest
+	Opis testa: Testiranje registracije
+	Test je uspesno prosao: true
+
+Testiranje metode LoginTest
+
+	Naziv testa: LoginTest
+	Opis testa: Testiranje logovanja
+	Test je uspesno prosao: true
+
+Testiranje metode CheckValidationTest
+
+	Naziv testa: CheckValidationTest
+	Opis testa: Testiranje ispravnosti podataka korisnika
+	Test je uspesno prosao: true
+
+Testiranje metode AddProductsTest
+
+	Naziv testa: AddProductsTest
+	Opis testa: Testiranje dodavanja proizvoda u korpu
+	Test je uspesno prosao: true
+
+Testiranje metode EqualsValueTest
+
+	Naziv testa: EqualsValueTest
+	Opis testa: Testiranje ukupne vrednosti u korpi
+	Test je uspesno prosao: true
+
+Testiranje metode PerfomanceTest
+
+	Naziv testa: ProdavniceTest
+	Opis testa: Ucitavanje Prodavnice
+	Test je uspesno prosao: true
+
+	Vreme ucitavanja stranice: 13438ms
+
+
+Testiranje metode PerfomanceTest
+
+	Naziv testa: DostavaTest
+	Opis testa: Ucitavanje Dostava
+	Test je uspesno prosao: true
+
+	Vreme ucitavanja stranice: 23400ms
+
+
+Testiranje metode PerfomanceTest
+
+	Naziv testa: KorpeTest
+	Opis testa: Ucitavanje Korpe
+	Test je uspesno prosao: true
+
+	Vreme ucitavanja stranice: 17636ms
+
+
+Testiranje metode PerfomanceTest
+
+	Naziv testa: OtvoriNalogTest
+	Opis testa: Ucitavanje OtvoriNalog
+	Test je uspesno prosao: true
+
+	Vreme ucitavanja stranice: 18391ms
+
+
+Testiranje metode FilterProductTest
+
+	Naziv testa: FilterProductTest
+	Opis testa: Testiranje filtera u shopu
+	Test je uspesno prosao: true
+
+Testiranje metode SearchProductTest
+
+	Naziv testa: SearchProductTest
+	Opis testa: Testiranje pretrage
+	Test je uspesno prosao: true
+
+Testiranje metode SortProductTest
+
+	Naziv testa: SortProductTest
+	Opis testa: Testiranje sortiranja u shopu
+	Test je uspesno prosao: true
+
